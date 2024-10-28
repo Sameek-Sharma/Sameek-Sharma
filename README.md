@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sameek-Sharma
-- 👀 I’m interested in Embedded Systems and Embedded Software Engineering
+- 👀 I’m interested in Hardware Engineering
 - 🌱 I’m currently learning Nanotechnology Engineering at the University of Waterloo
-- 💞️ I’m looking to collaborate.
 
 <!---
 Sameek-Sharma/Sameek-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
